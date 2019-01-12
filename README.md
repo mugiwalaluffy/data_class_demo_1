@@ -50,7 +50,7 @@
   ![image](https://github.com/mugiwalaluffy/data_class_demo_1/raw/master/images/revenue_ordermethodtype.png)
     
     4. 2012年，各个产品的销售情况：眼睛类产品销售额最高。
-  ![image](https://github.com/mugiwalaluffy/data_class_demo_1/raw/master/images/revenue_prodcuttype_2012.png)
+  ![image](https://github.com/mugiwalaluffy/data_class_demo_1/raw/master/images/revenue_producttype_2012.png)
   
     5. you may add more...
     
